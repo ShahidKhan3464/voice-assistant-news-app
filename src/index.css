@@ -14,10 +14,3 @@ body {
 html {
     scroll-behavior: smooth;
 }
-
-@media (max-width: 480px){
-    .jss1 .jss2{
-        width: 35%;
-        height: 25vmin;
-    }
-}
