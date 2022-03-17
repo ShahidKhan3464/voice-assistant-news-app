@@ -14,3 +14,10 @@ body {
 html {
     scroll-behavior: smooth;
 }
+
+@media (max-width: 480px){
+    .jss1 img{
+        width: 35%;
+        height: 25vmin;
+    }
+}
